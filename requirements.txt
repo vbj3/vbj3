@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.8.0
+python-telegram-bot==13.14
+requests==2.31.0
+telebot==0.0.5
+TelegramBotAPI==0.3.2
+truecallerpy==0.1.2
